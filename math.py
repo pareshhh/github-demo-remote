@@ -1,14 +1,11 @@
 def add(x,y):
 	pass
 	
-def add(x,y):
+def subtract(x,y):
 	pass
 
-def add(x,y):
+def multiply(x,y):
 	pass
 	
-def add(x,y):
+def divide(x,y):
 	pass
-    
-def modulus(a,b):
-    pass
